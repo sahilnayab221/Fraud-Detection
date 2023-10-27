@@ -9,3 +9,7 @@ def model2():
 
  def model3():
     print("this is my third model of ML")
+
+
+
+    Model 2 is showing better result so consider it for the future process.
